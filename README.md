@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Tenant Feature Flag Management System
 
 A complete assignment implementation with one Node.js/Express backend and three separate React applications:
@@ -160,3 +161,6 @@ During development:
 - Express API: [http://localhost:4000/api](http://localhost:4000/api)
 
 Vite proxies `/api` requests to Express, so the React code uses the same relative API URLs in development and production.
+=======
+# New-Task
+>>>>>>> f944bbb8d83b2c550dc555fb4530de6f17bd6a20
