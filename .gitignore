@@ -1,0 +1,9 @@
+node_modules/
+frontend/dist/
+.env
+backend/data/database.sqlite
+backend/data/database.sqlite-shm
+backend/data/database.sqlite-wal
+backend/data/*.test.sqlite*
+npm-debug.log*
+.DS_Store
